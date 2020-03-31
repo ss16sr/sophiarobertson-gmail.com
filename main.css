@@ -1,0 +1,16 @@
+.responsive-heading {
+    color: blue;
+}
+
+@media screen and (min-width:600px){
+
+    .responsive-heading{
+        color: yellow;
+    }
+
+}
+
+@media screen and (min-width: 900px) {
+    .responsive-heading{
+        color: green;
+    }
